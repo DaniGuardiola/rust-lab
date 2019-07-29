@@ -52,12 +52,8 @@ fn print_fibonacci(n: u32) {
 // The Twelve Days Of Christmas
 // ----------------------------
 
-// const NUMBERS: (str, str, str, str, str, str, str, str, str, str, str) = ("first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eigth", "ninth", "tenth", "eleventh", "twelfth");
-
-// fn the_twelve_days_of_christmas() {}
-
-// TODO
-// honestly f**k the twelve days of christmas shove them up your a**
+// TODO: no clean solution with what I've learned so far so
+// whatever I'll revisit this in the future
 
 // run and log this shit
 // ---------------------
